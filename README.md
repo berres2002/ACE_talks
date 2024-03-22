@@ -6,7 +6,6 @@ This is the repository to host materials from past ACE talks.
 <center><img src="https://github.com/berres2002/ACE_talks/assets/48331027/e8aa6504-a5a0-4da7-b4a5-a5ce70164389" width="400"></center>
 
 
-
 ## About
 Astronomy Coding Education (ACE) Talks allows UIUC's community of professional Astronomers to share tips, tricks, and tutorials of astronomical software and programming techniques. We cover topics such as using Python, SAO Image DS9, astropy, and more!. 
 
