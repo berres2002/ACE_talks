@@ -3,7 +3,10 @@
 
 This is the repository to host materials from past ACE talks.
 
-<center><img src="https://github.com/berres2002/ACE_talks/assets/48331027/e8aa6504-a5a0-4da7-b4a5-a5ce70164389" width="400"></center>
+
+![image](https://github.com/berres2002/ACE_talks/assets/48331027/9926c8e4-24b8-4a08-8a2f-243d9f8df18b)
+
+
 
 
 ## About
