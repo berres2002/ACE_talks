@@ -15,6 +15,10 @@ Astronomy Coding Education (ACE) Talks allows UIUC's community of professional A
 ## Navigation
 You will find materials *per academic semester* with directory names like `spring_24/` with individal talks with directory naming scheme `/Topic_PresenterName_MMDD/`. 
 
+## Talk Recordings
+
+Most talks hosted here have recordings posted on YouTube. Links to recordings are found in the `README.md` file in a talk's directory. This is also displayed below the directory contents with the title of the talk hyperlinked and the written out video URL. All recordings are unlisted at this time.
+
 ## Installing Specific Files
 
 You can download individual files, like `.pdf` or `.ipynb` files, without cloning this repository using the download button when viewing a file. The button is found at the top right of the file viewer. It is shown below as a down arrow in a tray.
